@@ -2,9 +2,12 @@ function rotLeft(a, d) {
     // Write your code here
     let array = [];
 for (let i = 0; i < d; i++) {
-    array = a.shift(); //Remove element at index 0
-    a.push(array); //Add removed element at end of array
+    //remove element at index 0
+    array = a.shift();
+    //add removed element at end of array
+    a.push(array);
 }
 console.log(a);
+//return array
 return a;
 }
