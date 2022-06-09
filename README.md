@@ -1,3 +1,3 @@
 # HackerRank
 
-### Some completed exercises from [HackerRank](hackerrank.com)
+### Some completed challenges from [HackerRank](hackerrank.com)
