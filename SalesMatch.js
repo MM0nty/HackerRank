@@ -11,5 +11,7 @@ function sockMerchant(n, ar) {
       i++;
     }
   }
+  //debug
+  console.log(pairs);
   return pairs;
 }
