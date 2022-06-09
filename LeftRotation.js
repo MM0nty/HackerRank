@@ -6,6 +6,7 @@ function rotLeft(a, d) {
     //add removed element at end of array
     a.push(array);
   }
+  //debug
   console.log(a);
   //return array
   return a;
