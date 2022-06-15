@@ -1,4 +1,5 @@
 /* IN PROGRESS
+"Two strings are anagrams of each other if the first string's letters can be rearranged to form the second string. In other words, both strings must contain the same exact letters in the same exact frequency."
 function makeAnagram(a, b) {
     // Write your code here
     let count = 0;
